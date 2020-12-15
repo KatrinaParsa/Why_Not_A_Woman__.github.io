@@ -1,5 +1,3 @@
-# Why_Not_A_Woman__.github.io
-
 # Why Not a Woman?
 
  Surgery is a very challenging field and there are physicians today who believe that women aren’t suited for the job. Even though there is an even amount of female doctors, they still aren’t given the same opportunities, respect, or attention as their male counterparts. One reason many women tend to stay away from surgery is because they fear being rejected. Reviews from attending doctors during medical school rotations are an important factor in the matching process, and since the male medical students are more sought after in their surgical residencies they would have better recommendations that would increase their chance in matching into a surgical program. 
@@ -15,6 +13,19 @@ Surgery has always been a boy’s club, and this would contribute to a cycle of 
 
 ![pic](https://github.com/KatrinaParsa/Why_not_a_Woman_.github.io/blob/main/Male_Female%20Doctors.png?raw=true)
 
-Another issue is that people often associate women as the main or only caregiver, and assume that she would be distracted by her family life to perform well at work. Therefore, they would also have a much harder time becoming directors of their fields or any other type of senior management position. 
+Another issue is that people often associate women as the main or only caregiver, and assume that she would be distracted by her family life to perform well at work. Therefore, they would also have a much harder time becoming directors of their fields or any other type of senior management position. Gender biases towards female doctors is quite prevelent. They are held to a higher standard and they don't gain the same respect as their male collegues. One main reason for this is that women are assumed that their choices in their personal life will negatively inlfluence their performance in the workplace. 
 
 ![pic](https://github.com/KatrinaParsa/Why_not_a_Woman_.github.io/blob/main/Leadership%20Postions.png?raw=true)
+
+## Work Cited
+[Where are all Women in Surgery](https://www.aamc.org/news-insights/where-are-all-women-surgery)
+
+[Resident Specialties](https://www.aamc.org/data-reports/workforce/interactive-data/acgme-residents-and-fellows-sex-and-specialty-2017)
+
+[Women still a Rarity in High Paying Surgical Specialities](https://www.modernhealthcare.com/article/20180728/NEWS/180729922/women-still-a-rarity-in-high-paying-surgical-specialties)
+
+[Women Frustrated in a Male Dominated Field](https://www.theguardian.com/society/2019/jan/08/female-surgeons-frustrated-by-male-dominated-field-study-finds) 
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/17894251/)
+
+[What's Holding Women in Medicine Back from Leadership?](https://hbr.org/2018/06/whats-holding-women-in-medicine-back-from-leadership)
